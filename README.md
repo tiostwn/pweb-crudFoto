@@ -1,5 +1,5 @@
 # PWEB CRUD Photo  | Hanafi Satriyo Utomo Setiawan `5025211195`
-Ini adalah tugas untuk membuat CRUD photo dengan menggunakan bahasa PHP dan XAMPP. User dapat menambahkan, menghapus, mengedit data dalam tampilan website yang terkoneksi dengan database phpMyAdmin dengan `http://localhost/pweb-crudPhoto/`
+Disini saya akan menampilkan hasil pengerjaan saya untuk implementasi CRUD sederhana dengan menggunakan PHP dan MySQL dengan fitur tambahan yaitu mengunggah foto. Dalam tugas ini, kami berfokus di back-end suatu program, yang mana terdapat modifikasi terhadap data karyawan. Yang dapat dilakukan yaitu menambahkan data sekaligus mengunggah foto, menampilkan dalam tabel, mengubah data, serta menghapus data. Diperlukan koneksi ke database untuk penyimpanan seluruh data. 
 
 ### Langkah - Langkah Yang Dilakukan :
 1. Masukkan database yang sudah ada dalam repository ke dalam phpMyAdmin
