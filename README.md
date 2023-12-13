@@ -1,5 +1,7 @@
-# PWEB CRUD Photo  | Hanafi Satriyo Utomo Setiawan `5025211195`
-Disini saya akan menampilkan hasil pengerjaan saya untuk implementasi CRUD sederhana dengan menggunakan PHP dan MySQL dengan fitur tambahan yaitu mengunggah foto. Dalam tugas ini, kami berfokus di back-end suatu program, yang mana terdapat modifikasi terhadap data karyawan. Yang dapat dilakukan yaitu menambahkan data sekaligus mengunggah foto, menampilkan dalam tabel, mengubah data, serta menghapus data. Diperlukan koneksi ke database untuk penyimpanan seluruh data. 
+# PWEB CRUD Photo
+
+## Hanafi Satriyo Utomo Setiawan `5025211195`
+Di sini saya akan menampilkan hasil pengerjaan saya untuk implementasi CRUD sederhana dengan menggunakan PHP dan MySQL dengan fitur tambahan yaitu mengunggah foto. Dalam tugas ini, kami berfokus di back-end suatu program, yang mana terdapat modifikasi terhadap data karyawan. Yang dapat dilakukan yaitu menambahkan data sekaligus mengunggah foto, menampilkan dalam tabel, mengubah data, serta menghapus data. Diperlukan koneksi ke database untuk penyimpanan seluruh data. 
 
 ### Langkah - Langkah Yang Dilakukan :
 1. Masukkan database yang sudah ada dalam repository ke dalam phpMyAdmin
